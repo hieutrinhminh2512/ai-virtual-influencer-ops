@@ -1,0 +1,22 @@
+# Environment variables & secrets
+.env
+youtube_token.pickle
+client_secret.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Browser profiles (Cookies, sessions)
+browser_profile/
+
+# Temporary media files
+outputs/temp/
+outputs/scripts/script_mock_*.json
+
+# System files
+.DS_Store
+Thumbs.db
